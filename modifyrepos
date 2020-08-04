@@ -1,7 +1,1 @@
-Repository merupakan sebuah folder untuk menyimpan proyek kita, repository berisi semua file dan menyimpan masing - masing file setiap kali melakukan perubahan atau revisi
-visibilitas repository dapat di set ke public atau private, di public semua orang diinterner bisa melihat isi dari repository nya tetapi bila ingin melakukan commit harus ada
-izin dari master repositorynya, untuk private agar dapat bisa melihat repository dan melakukan commit keduanya harus mendapat izin dari master repository
-untuk melakukan perubahan pada repository seperti rename, dibawah nama repository klik pengaturan dan di bagian Repository name masukan nama baru yang diinginkan dan klik rename
-sedangkan untuk mengedit file, kita pilih file yang mau di edit pada repository dan di pojok kanan atas di file view klik open editor, dan pada tab edit buat perbuhana yang mau
-dilakukan, kemudian preview hasil editnya, apabila sudah benar kita dapat melakukan commit dan pull request untuk pendiskusian tentang perubahan yang dilakukan kepada semua orang
-yang terlibat di proyek
+edited by dimas zulfa
