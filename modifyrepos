@@ -5,3 +5,5 @@ untuk melakukan perubahan pada repository seperti rename, dibawah nama repositor
 sedangkan untuk mengedit file, kita pilih file yang mau di edit pada repository dan di pojok kanan atas di file view klik open editor, dan pada tab edit buat perbuhana yang mau
 dilakukan, kemudian preview hasil editnya, apabila sudah benar kita dapat melakukan commit dan pull request untuk pendiskusian tentang perubahan yang dilakukan kepada semua orang
 yang terlibat di proyek 
+
+GitHub adalah layanan hos web bersama untuk proyek pengembangan perangkat lunak yang menggunakan sistem kendali versi Git dan layanan hosting internet. ... Ini memberikan kontrol akses dan beberapa fitur kolaborasi seperti pelacakan bug, permintaan fitur, manajemen tugas, dan wiki untuk setiap proyek.
